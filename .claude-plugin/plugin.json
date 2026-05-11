@@ -1,0 +1,8 @@
+{
+  "name": "hebrew-ghostwriter",
+  "description": "Write Hebrew content indistinguishable from a native Israeli human. 8-layer system for generation, rewrite, and detection of AI patterns in Hebrew text.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["hebrew", "writing", "content", "ghostwriter", "israeli", "anti-detection"],
+  "skills": ["./skills/hebrew-ghostwriter"]
+}

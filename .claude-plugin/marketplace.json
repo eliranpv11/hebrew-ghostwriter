@@ -1,0 +1,20 @@
+{
+  "name": "hebrew-ghostwriter",
+  "owner": {
+    "name": "eliranpv11"
+  },
+  "metadata": {
+    "description": "Write Hebrew content indistinguishable from a native Israeli human. 8-layer system: Hebrew Mind, Linguistic Precision, Anti-Detection, Israeli Voice, Rhythm, Self-Audit, Soul, Versatility.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hebrew-ghostwriter",
+      "source": "./",
+      "description": "Hebrew-native content writer that produces text indistinguishable from work by a real Israeli writer. 16-word AI vocabulary blacklist, 6 content patterns, 10 Hebrew-specific AI tells, 5 Big No-Nos. Soul Layer with 20 authenticity techniques. Versatility Engine prevents cross-piece repetition (PNAS 2025 register-leveling defense). Generate, rewrite, or detect AI patterns in Hebrew text.",
+      "version": "1.0.0",
+      "keywords": ["hebrew", "writing", "content", "ghostwriter", "israeli", "anti-detection", "humanize", "natural-language", "creative-writing"],
+      "category": "content"
+    }
+  ]
+}
